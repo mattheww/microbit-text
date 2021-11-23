@@ -1,5 +1,6 @@
 [package]
-edition = "2021"
+edition = "2018"
+rust-version = "1.51"
 name = "microbit-text"
 version = "0.1.0"
 authors = ["Matthew Woodcraft <matthew@woodcraft.me.uk>"]
