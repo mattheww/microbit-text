@@ -1,3 +1,5 @@
+## microbit-text 1.0.0 (2021-11-23)
+
 * Advertise MSRV 1.51
 
 * Switch from edition 2021 to edition 2018

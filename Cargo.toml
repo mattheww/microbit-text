@@ -2,7 +2,7 @@
 edition = "2018"
 rust-version = "1.51"
 name = "microbit-text"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Matthew Woodcraft <matthew@woodcraft.me.uk>"]
 description = "Scrolling text on a 5×5 (micro:bit) display"
 readme = "README.md"
